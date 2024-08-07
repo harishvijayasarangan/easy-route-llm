@@ -1,0 +1,5 @@
+streamlit
+routellm[serve,eval]
+routellm
+ollama
+openai
