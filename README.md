@@ -1,6 +1,6 @@
 
 # EASY ROUTE LLM
-Easy Route Llm is one of my  pioneering projects leveraging the power of RouteLLM, an open-source framework designed to optimize the cost and performance of Large Language Models (LLMs). By intelligently routing queries between high-performance models like GPT-4 and more cost-effective models like LLaMA 3, this innovative approach achieves up to an 85% reduction in costs while maintaining exceptional response quality. Utilizing Streamlit for its chat interface, Easy Route Llm makes advanced AI technology more accessible and efficient.
+To reduce  the cost per token (api key ) of Large Language Models (LLMs). By intelligently routing queries between high-performance models like GPT-4 and more cost-effective models like LLaMA 3, this approach achieves up to an 85% reduction in costs while maintaining exceptional response quality. Streamlit for its chat interface, Easy Route Llm makes advanced AI technology more accessible and efficient.
 
 
 ## SETUP
